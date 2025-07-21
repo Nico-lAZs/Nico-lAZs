@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Nicolás Felipe MG</h1>
+<h1 align="center">👋 Hola, soy Nicolás Felipe </h1>
 
 <p align="center">
   📊 Científico de datos
