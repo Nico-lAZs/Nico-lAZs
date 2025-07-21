@@ -14,9 +14,9 @@
 ## ✨ Sobre mí
 
 📚 Estudiante universitario en formación como **Analista y Científico de Datos**.  
-🔍 Min enfoque es amplio desde  **proyectos investigativos**  hasta proyectos con enfasis al analisis de negocios
+🔍 Mi enfoque es amplio desde  **proyectos investigativos**  hasta proyectos con enfasis al analisis de negocio
 🛠️ Desarrollo soluciones desde cero: limpieza de datos, modelado predictivo y visualización interactiva.  
-📢 Apasionado por comunicar hallazgos a través de dashboards y narrativas con datos.  
+📢 Apasionado por la visualizacion de datos y storytelling --- dashboard.  
 💡 Utilizo herramientas como `Python`, `SQL`, `R` y `Power BI` para conectar datos con decisiones reales.
 
 ---
@@ -39,18 +39,6 @@
 - 🧼 **Data Wrangling** & Feature Engineering
 - 📈 **Visualización Interactiva** y Dashboards
 - 🧠 **Storytelling con Datos**
-Ventajas de este diseño:
-✅ Más organizado visualmente (como secciones en lugar de tabla)
-
-✅ Usa emojis para facilitar la lectura y destacar bloques clave
-
-✅ Mejora la jerarquía visual del contenido
-
-
-
-
-
-Preguntar a ChatGPT
 
 
 
@@ -59,11 +47,11 @@ Preguntar a ChatGPT
 ## 🧠 Habilidades analíticas
 
 - 📊 **Visualización de Datos**: Power BI, Plotly, Dash, Streamlit  
-- 🧼 **Limpieza y EDA**: Pandas, R, manejo de outliers, datos faltantes  
+- 🧼 **Limpieza y EDA**: Pandas, R 
 - 🤖 **Machine Learning**:  
-  - Regresión (lineal, múltiple)  
-  - Clasificación (árboles, KNN, logística)  
-  - Clustering (K-means, DBSCAN)  
+  - Regresión 
+  - Clasificación  
+  - Clustering 
 - 📈 **Estadística aplicada**:  
   - Inferencia estadística  
   - Pruebas de hipótesis  
@@ -75,19 +63,19 @@ Preguntar a ChatGPT
 
 ### 🔹 [📦 Northwind – Análisis de ventas y visualización interactiva](https://github.com/Nico-lAZs/Northwind)
 🔗 Conexión a base de datos | 📈 KPIs de ventas | 🧭 Visualización en **Streamlit**  
-> Análisis exploratorio completo con enfoque comercial para stakeholders.  
+> Análisis exploratorio completo stakeholder project.  
 
 ---
 
 ### 🔹 [🧠 Human Cognitive Performance](https://github.com/Nico-lAZs/Human-Cognitive-Performance)
 📊 Investigación aplicada | 🧬 Estadística inferencial | 💡 Estilo de vida vs rendimiento  
-> Exploración de cómo el sueño, la edad y el entorno afectan el desempeño cognitivo.
+> Exploración de como los diferentes factores de estilos de vida afectan el desempeño cognitivo.
 
 ---
 
 ### 🔹 [🌐 Internet Adoption Over Time](https://github.com/Nico-lAZs/internet-adoption-over-time)
 📆 Series de tiempo | 📶 Adopción tecnológica global | 📊 Visualizaciones interactivas  
-> Estudio de brechas entre países desarrollados y en desarrollo con modelos predictivos.
+> Estudio de brechas entre países desarrollados y en desarrollo Research project.
 
 ---
 
