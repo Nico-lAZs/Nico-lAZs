@@ -1,12 +1,16 @@
-<h1 align="center">👋 Hola, soy Nicolás Felipe </h1>
+<h1 align="center">👋 Hola, soy Nicolás Felipe</h1>
 
 <p align="center">
-  📊 Científico de datos
+  📊 Científico de Datos
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-felipe-mogollon-granda-575aa0248/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/Nico-lAZs?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/nicolas-felipe-mogollon-granda-575aa0248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:niconicolasfelipe@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
+  </a>
 </p>
 
 ---
