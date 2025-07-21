@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Nicolás Felipe MG</h1>
 
 <p align="center">
-  📊 Científico de datos en formación | 🎓 Investigador aplicado | 📈 Visualizador de datos
+  📊 Científico de datos
 </p>
 
 <p align="center">
