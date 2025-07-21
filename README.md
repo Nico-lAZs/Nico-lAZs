@@ -58,7 +58,8 @@
   - Regresión 
   - Clasificación  
   - Clustering 
-- 📈 **Estadística aplicada**:  
+- 📈 **Estadística aplicada**:
+  - descriptuiva 
   - Inferencia estadística  
   - Pruebas de hipótesis  
   - ANOVA, correlaciones, regresión multivariable  
