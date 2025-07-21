@@ -6,12 +6,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolas-felipe-mogollon-granda-575aa0248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <button style="padding: 10px 20px; margin: 10px; font-size: 16px; background-color: #0077b5; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      LinkedIn
+    </button>
   </a>
+
   <a href="mailto:niconicolasfelipe@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
+    <button style="padding: 10px 20px; margin: 10px; font-size: 16px; background-color: #D14836; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Correo
+    </button>
   </a>
 </p>
+
 
 ---
 
