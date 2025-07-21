@@ -92,9 +92,8 @@
 
 ## 📫 Conecta conmigo
 
-<p align="left">
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nicolas-felipe-mogollon-granda-575aa0248/">nicolas-felipe-mogollon-granda</a>  
-  📂 <strong>Portafolio en GitHub:</strong> <a href="https://github.com/Nico-lAZs?tab=repositories">github.com/Nico-lAZs</a>
+<p align="left"> 
+  📂 <strong>Portafolio "mis proyectos":</strong> <a href="https://github.com/Nico-lAZs?tab=repositories">github.com/Nico-lAZs</a>
 </p>
 
 ---
