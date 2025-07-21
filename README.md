@@ -69,19 +69,19 @@
 
 ### 🔹 [📦 Northwind – Análisis de ventas y visualización interactiva](https://github.com/Nico-lAZs/Northwind)
 🔗 Conexión a base de datos | 📈 KPIs de ventas | 🧭 Visualización en **Streamlit**  
-> Análisis exploratorio completo stakeholder project.  
+> Análisis exploratorio completo---stakeholder project.  
 
 ---
 
 ### 🔹 [🧠 Human Cognitive Performance](https://github.com/Nico-lAZs/Human-Cognitive-Performance)
 📊 Investigación aplicada | 🧬 Estadística inferencial | 💡 Estilo de vida vs rendimiento  
-> Exploración de como los diferentes factores de estilos de vida afectan el desempeño cognitivo.
+> Exploración de como los diferentes factores de estilos de vida afectan el desempeño cognitivo--- Research project.
 
 ---
 
 ### 🔹 [🌐 Internet Adoption Over Time](https://github.com/Nico-lAZs/internet-adoption-over-time)
 📆 Series de tiempo | 📶 Adopción tecnológica global | 📊 Visualizaciones interactivas  
-> Estudio de brechas entre países desarrollados y en desarrollo Research project.
+> Estudio de brechas entre países desarrollados y en desarrollo concerniente a la alfabetizacion digital---Research project.
 
 ---
 
