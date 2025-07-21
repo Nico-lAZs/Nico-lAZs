@@ -14,20 +14,45 @@
 ## ✨ Sobre mí
 
 📚 Estudiante universitario en formación como **Analista y Científico de Datos**.  
-🔍 Me enfoco en **proyectos investigativos**, con énfasis en **estadística inferencial**, análisis multivariable y relaciones causa-efecto.  
+🔍 Min enfoque es amplio desde  **proyectos investigativos**  hasta proyectos con enfasis al analisis de negocios
 🛠️ Desarrollo soluciones desde cero: limpieza de datos, modelado predictivo y visualización interactiva.  
 📢 Apasionado por comunicar hallazgos a través de dashboards y narrativas con datos.  
 💡 Utilizo herramientas como `Python`, `SQL`, `R` y `Power BI` para conectar datos con decisiones reales.
 
 ---
-
 ## ⚙️ Tech Stack
 
-| Lenguajes       | Herramientas & Frameworks           | Especialidades                      |
-|-----------------|-------------------------------------|-------------------------------------|
-| `Python`        | Power BI, Streamlit, Dash (Plotly) | Data Wrangling, Feature Engineering|
-| `SQL`           | Jupyter, Colab                      | Visualización Interactiva           |
-| `R`             | Git, GitHub                         | Storytelling con Datos              |
+### 🧪 Lenguajes
+- 🐍 **Python**
+- 🐘 **SQL**
+- 📊 **R**
+
+### 🛠️ Herramientas y Frameworks
+- 📊 Power BI
+- 🌐 Streamlit
+- 📈 Dash (Plotly)
+- 📓 Jupyter Notebook
+- ☁️ Google Colab
+- 🧬 Git & GitHub
+
+### 🎯 Especialidades
+- 🧼 **Data Wrangling** & Feature Engineering
+- 📈 **Visualización Interactiva** y Dashboards
+- 🧠 **Storytelling con Datos**
+Ventajas de este diseño:
+✅ Más organizado visualmente (como secciones en lugar de tabla)
+
+✅ Usa emojis para facilitar la lectura y destacar bloques clave
+
+✅ Mejora la jerarquía visual del contenido
+
+
+
+
+
+Preguntar a ChatGPT
+
+
 
 ---
 
