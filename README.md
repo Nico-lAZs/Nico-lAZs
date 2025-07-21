@@ -101,15 +101,7 @@
 ## 🌟 Gracias por visitar mi perfil
 
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nico-lAZs&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-lAZs&layout=compact&theme=tokyonight" alt="Lenguajes más usados">
-</p>
 
 
 
