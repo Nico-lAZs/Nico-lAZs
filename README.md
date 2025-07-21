@@ -100,8 +100,6 @@
 
 ## 🌟 Gracias por visitar mi perfil
 
-Estoy comprometido con seguir creciendo en el mundo de los datos mediante proyectos reales, investigación aplicada y mejora continua.  
-**¡Explora mis repositorios y conecta!**
 
 ---
 
