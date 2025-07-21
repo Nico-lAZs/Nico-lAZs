@@ -59,7 +59,7 @@
   - Clasificación  
   - Clustering 
 - 📈 **Estadística aplicada**:
-  - descriptuiva 
+  - descriptiva 
   - Inferencia estadística  
   - Pruebas de hipótesis  
   - ANOVA, correlaciones, regresión multivariable  
