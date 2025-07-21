@@ -6,15 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolas-felipe-mogollon-granda-575aa0248/" target="_blank">
-    <button style="padding: 10px 20px; margin: 10px; font-size: 16px; background-color: #0077b5; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      LinkedIn
-    </button>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-
   <a href="mailto:niconicolasfelipe@gmail.com">
-    <button style="padding: 10px 20px; margin: 10px; font-size: 16px; background-color: #D14836; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Correo
-    </button>
+    <img src="https://img.shields.io/badge/Correo-Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
   </a>
 </p>
 
@@ -27,7 +22,7 @@
 📚 Estudiante universitario en formación como **Analista y Científico de Datos**.  
 🔍 Mi enfoque es amplio desde  **proyectos investigativos**  hasta proyectos con enfasis al analisis de negocio
 🛠️ Desarrollo soluciones desde cero: limpieza de datos, modelado predictivo y visualización interactiva.  
-📢 Apasionado por la visualizacion de datos y storytelling --- dashboard.  
+📢 Apasionado por la visualizacion de datos y storytelling --- dashboards.  
 💡 Utilizo herramientas como `Python`, `SQL`, `R` y `Power BI` para conectar datos con decisiones reales.
 
 ---
